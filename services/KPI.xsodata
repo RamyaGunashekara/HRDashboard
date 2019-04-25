@@ -1,0 +1,3 @@
+service{
+     "KPI_HR"."KPI_DASHBOARD" as "DASHBOARD" keys generate local "Id";
+}
